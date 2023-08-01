@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif)]
+[![MasterHead](https://blog.penjee.com/wp-content/uploads/2016/05/penjee-penguin-recursion-visualization.gif)]
 <h1 align="center">Hi 👋, I'm Supriya Gupta</h1>
 <h3 align="center">Budding programmer in canada</h3>
-<img align="right" alt="Coding" width="400" src="https://blog.penjee.com/wp-content/uploads/2016/05/penjee-penguin-recursion-visualization.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
 
 - 🔭 I’m currently working on **Dynamic and responsive portfolio**
 
