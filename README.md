@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gupta.supriya.official@gmail.com**
 
-- ⚡ Fun fact **I am creative and keen interested in musical instruments**
+- ⚡ Fun fact **I am creative and keenly interested in musical instruments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
