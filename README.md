@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.penjee.com/wp-content/uploads/2016/05/penjee-penguin-recursion-visualization.gif)]
+[![MasterHead](https://wallpaperaccess.com/full/3239444.jpg)]
 <h1 align="center">Hi 👋, I'm Supriya Gupta</h1>
 <h3 align="center">Budding programmer in canada</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
