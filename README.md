@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/3239444.jpg)]
+
 <h1 align="center">Hi 👋, I'm Supriya Gupta</h1>
 <h3 align="center">Budding programmer and an undergraduate in Computer Science</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
